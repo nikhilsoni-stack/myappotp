@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nikhilsoni-stack/myappotp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/nikhilsoni-stack/myappotp/static/js/main.fb610d7a.chunk.js",
-    "main.js.map": "/nikhilsoni-stack/myappotp/static/js/main.fb610d7a.chunk.js.map",
-    "runtime-main.js": "/nikhilsoni-stack/myappotp/static/js/runtime-main.d160aa8d.js",
-    "runtime-main.js.map": "/nikhilsoni-stack/myappotp/static/js/runtime-main.d160aa8d.js.map",
-    "static/js/2.e1a0f1bd.chunk.js": "/nikhilsoni-stack/myappotp/static/js/2.e1a0f1bd.chunk.js",
-    "static/js/2.e1a0f1bd.chunk.js.map": "/nikhilsoni-stack/myappotp/static/js/2.e1a0f1bd.chunk.js.map",
-    "index.html": "/nikhilsoni-stack/myappotp/index.html",
-    "precache-manifest.cbd8cdc608e8d3bbb2e9161e941097e2.js": "/nikhilsoni-stack/myappotp/precache-manifest.cbd8cdc608e8d3bbb2e9161e941097e2.js",
-    "service-worker.js": "/nikhilsoni-stack/myappotp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/nikhilsoni-stack/myappotp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e1a0f1bd.chunk.js.LICENSE.txt": "/nikhilsoni-stack/myappotp/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/nikhilsoni-stack/myappotp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/myappotp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/myappotp/static/js/main.48fbf0ca.chunk.js",
+    "main.js.map": "/myappotp/static/js/main.48fbf0ca.chunk.js.map",
+    "runtime-main.js": "/myappotp/static/js/runtime-main.e1a46bc7.js",
+    "runtime-main.js.map": "/myappotp/static/js/runtime-main.e1a46bc7.js.map",
+    "static/js/2.e1a0f1bd.chunk.js": "/myappotp/static/js/2.e1a0f1bd.chunk.js",
+    "static/js/2.e1a0f1bd.chunk.js.map": "/myappotp/static/js/2.e1a0f1bd.chunk.js.map",
+    "index.html": "/myappotp/index.html",
+    "precache-manifest.402496cbede971c9c04b883e4a3447ac.js": "/myappotp/precache-manifest.402496cbede971c9c04b883e4a3447ac.js",
+    "service-worker.js": "/myappotp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/myappotp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e1a0f1bd.chunk.js.LICENSE.txt": "/myappotp/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/myappotp/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d160aa8d.js",
+    "static/js/runtime-main.e1a46bc7.js",
     "static/js/2.e1a0f1bd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fb610d7a.chunk.js"
+    "static/js/main.48fbf0ca.chunk.js"
   ]
 }
